@@ -1,16 +1,29 @@
-## Hi there 👋
+# REZION
 
-<!--
-**rezion-dev/rezion-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Programmer • AI Enthusiast • Future Founder
 
-Here are some ideas to get you started:
+Hey! I'm Reza, an 18-year-old developer passionate about programming, Artificial Intelligence, and building useful digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Learning Python & Software Development
+- 🤖 Exploring AI & Automation
+- 🌐 Interested in Web Development
+- 📚 Passionate about Technology, History & Philosophy
+- 🛠️ Building real-world projects and improving every day
+
+## 🧠 Currently Learning
+
+Python · Git · GitHub · Web Development · AI · Automation
+
+## 🎯 My Goal
+
+To build technology that solves real problems and eventually turn ideas into products used by people around the world.
+
+## 📌 Philosophy
+
+> Learn. Build. Share. Improve.
+
+---
+
+**REZION** — Building the future, one project at a time. 🚀
