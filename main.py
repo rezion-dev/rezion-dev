@@ -1,1 +1,18 @@
+print("================================")
+print("       REZION DEV PROFILE")
+print("================================")
 
+name = input("What's your name? ")
+age = input("How old are you? ")
+skill = input("What's your main skill? ")
+goal = input("What's your goal? ")
+
+print()
+print("================================")
+print("          YOUR PROFILE")
+print("================================")
+print(f"Name  : {name}")
+print(f"Age   : {age}")
+print(f"Skill : {skill}")
+print(f"Goal  : {goal}")
+print("================================")
